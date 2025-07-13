@@ -1,0 +1,11 @@
+export const texts = [
+    "Someone I know recently combined Maple Syrup buttered Popcorn thinking it would taste like caramel popcorn  It didnt and they dont recommend anyone else do it either find the depths of the rabbit hole in order to be with her Pedro accidentally",
+    "After fighting off the alligator Brian still had to face the anaconda I come from a tribe of headhunters so I will never need a shrink He found rain fascinating yet unpleasant he had always believed that security complexes were psychological",
+    "Before he moved to the inner city he had always believed that security complexes were psychological She hadnt had her cup of coffee and that made things all the worse dreamed about being stranded on a desert island until it actually happened",
+    "The minute she landed she understood the reason this was a flyover state He played the game as if his life depended on it and the truth was that it did dreamed about being stranded on a desert island until it actually happened",
+    "I really want to go to work but I am too sick to drive The old rusted farm equipment surrounded the house predicting its demis He uses onomatopoeia as a weapon I come from a tribe of headhunters so I will never need a shrink He found rain fascinating",
+    "You cant compare apples and oranges but what about bananas and plantains I never knew what hardship looked like until it started raining bowling balls ombined Maple Syrup buttered Popcorn thinking it would taste like caramel popcorn",
+    "He stepped gingerly onto the bridge knowing that enchantment awaited on the other side Homesickness became contagious in the young campers cabin dvised him to come back at once He was willing to find the depths of the rabbit hole",
+    "I always dreamed about being stranded on a desert island until it actually happened I was offended by the suggestion that my baby brother was a jewel thief I come from a tribe of headhunters so I will never need a shrink",
+    "She advised him to come back at once He was willing to find the depths of the rabbit hole in order to be with her Pedro accidentally created a new universe believed that security complexes were psychological She hadnt had her cup of coffee",
+]
